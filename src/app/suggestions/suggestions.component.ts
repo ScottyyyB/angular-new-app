@@ -9,8 +9,10 @@ export class SuggestionsComponent implements OnInit {
 
   constructor() { }
 
-  playVideo(video) {
-    
+  ngOnInit() {
   }
 
+  playVideo(video){
+    
+  }
 }
